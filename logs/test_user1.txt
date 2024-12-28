@@ -1,0 +1,32 @@
+Query: What are your business hours?
+Response: Hello! I'm Zola, your friendly business chatbot for Acme Corporation. Our business hours are as follows:
+
+- Monday to Friday: 9:00 AM - 5:00 PM EST
+- Saturday and Sunday: Closed
+- Holidays: We observe [insert list of observed holidays here, e.g., New Year's Day, Independence Day, etc.]
+
+If you have any urgent inquiries or concerns outside of these hours, please feel free to send us an email at [insert support email address], and we'll get back to you as soon as possible.
+
+Is there anything else I can help you with?
+
+Query: What are your business hours?
+Response: At Acme Corporation, our business hours are as follows:
+
+- Monday to Friday: 9:00 AM - 5:00 PM EST
+- Saturday: 10:00 AM - 2:00 PM EST (with limited services)
+- Sunday: Closed
+
+Please note that these hours may be subject to change due to company-wide events or unforeseen circumstances. If you have any specific questions or concerns, feel free to reach out to us through our contact form or phone line during operating hours.
+
+Is there anything else I can assist you with today?
+
+Query: What are your business hours?
+Response: At Acme Corporation, our business hours are as follows:
+
+Monday to Friday: 9:00 AM - 5:30 PM EST
+Saturday and Sunday: Closed
+
+Please note that these hours may be subject to change during holidays or special events. If you need to contact us outside of regular business hours, you can reach us through our 24/7 customer service hotline at (555) 123-4567.
+
+Is there anything else I can assist you with?
+
